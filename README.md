@@ -1,4 +1,4 @@
-This is an application that does preliminary calculations required in the design of planar sundials. It accepts the following user input data:
+This is a Java application that does preliminary calculations required in the design of planar sundials. It accepts the following user input data:
 
     • Longitude
     • Latitude
